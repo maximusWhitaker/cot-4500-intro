@@ -1,6 +1,6 @@
 # Running the script
 
-Please do the following in the terminal to run the code:
+Please do the following in the terminal to compile and run the code:
 ```bash
 python intro_to_python.py
 ```
