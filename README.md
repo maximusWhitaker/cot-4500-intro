@@ -26,4 +26,4 @@ pip install numpy
 import numpy
 ```
 ## Purpose
-The purpose of this code is to print out 3 different matricies according to the assignment standards
+The purpose of this code is to print out 3 different matrices according to the assignment standards
